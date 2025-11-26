@@ -1,2 +1,1 @@
-hello my name is DeveloperA
 hello my name is DeveloperB
